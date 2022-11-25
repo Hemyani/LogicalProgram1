@@ -6,7 +6,7 @@ namespace LogicalProgram1
     {
         static void Main(string[] args)
         {
-            PerfectNumber.PerfectNo();
+            PrimeNumber.PrimeNo();
             Console.ReadLine();
 
         }
