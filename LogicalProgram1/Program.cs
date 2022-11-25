@@ -6,7 +6,7 @@ namespace LogicalProgram1
     {
         static void Main(string[] args)
         {
-            CouponNumbers.CouponNo();
+            SimulateStopwatch.Stopwatch();
             Console.ReadLine();
         }
     }
