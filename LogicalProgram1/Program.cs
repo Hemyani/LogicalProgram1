@@ -6,7 +6,7 @@ namespace LogicalProgram1
     {
         static void Main(string[] args)
         {
-            ReverseNumber.ReverseNo();
+            CouponNumbers.CouponNo();
             Console.ReadLine();
         }
     }
