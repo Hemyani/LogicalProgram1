@@ -6,9 +6,8 @@ namespace LogicalProgram1
     {
         static void Main(string[] args)
         {
-            PrimeNumber.PrimeNo();
+            ReverseNumber.ReverseNo();
             Console.ReadLine();
-
         }
     }
 }
