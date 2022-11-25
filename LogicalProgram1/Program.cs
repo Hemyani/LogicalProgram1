@@ -6,8 +6,9 @@ namespace LogicalProgram1
     {
         static void Main(string[] args)
         {
-            FibonacciSeries.Fibonacci();
+            PerfectNumber.PerfectNo();
             Console.ReadLine();
+
         }
     }
 }
